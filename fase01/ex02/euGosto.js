@@ -1,3 +1,13 @@
-function EuGosto(){
- return ("Eu gosto de música")
-}
+
+function euGosto(atividade){
+    return "Eu gosto de " + atividade
+    }
+
+
+
+
+
+
+
+
+

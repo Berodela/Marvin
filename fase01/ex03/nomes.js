@@ -1,3 +1,3 @@
-function Nomes(){
-return ("Miguel e Pedro")
+function nomes(nome1, nome2){
+ return "Arthur" + " e " + "Zaphod"
 }

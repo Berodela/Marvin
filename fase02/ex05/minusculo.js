@@ -1,4 +1,3 @@
-function maiusculo(palavra){
- return palavra.toUpperCase().slice(0, 3) +palavra.slice(3)   
+function minusculo(palavra){
+ return palavra.slice(0,1) .toLowerCase()   
 }
-console.log(maiusculo("maiusculo"))

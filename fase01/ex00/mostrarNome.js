@@ -1,5 +1,5 @@
-
-function MostrarNome(){
-    return "Marvin"
+function mostrarNome(){
+ console.log ("Marvin")
 }
-
+(mostrarNome())
+    

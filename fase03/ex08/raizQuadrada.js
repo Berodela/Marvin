@@ -1,4 +1,4 @@
-function raiz(num){
+function raizQuadrada(num){
  return Math.sqrt(num) 
 }
 

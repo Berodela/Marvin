@@ -1,4 +1,7 @@
-function vezes(a, b){
- return (a)*(b)
+function vezes(a, b, c, d){
+ return a * b * c * d   
 }
+
+
+
 

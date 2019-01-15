@@ -1,3 +1,5 @@
-function subtracao(a, b, c){
- return (a) - (b) - (c)
+function subtracao(a, b){
+ return (a)-(b)
 }
+
+

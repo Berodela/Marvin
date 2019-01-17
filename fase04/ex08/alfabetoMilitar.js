@@ -11,5 +11,5 @@ function alfabetoMilitar(letra){
  if (letra=="u")
  return "uniform"
  else
- return "false"
+ return false
 }

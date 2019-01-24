@@ -1,3 +1,4 @@
+
 function primo(x){
  y=[]
  if (x<0){
@@ -8,6 +9,19 @@ function primo(x){
  }
  if (y.length>2)
  return "Não"
+ else if (x==1)
+ return "Não"
  else 
  return "Sim"
 }
+
+
+
+
+
+
+
+
+
+
+

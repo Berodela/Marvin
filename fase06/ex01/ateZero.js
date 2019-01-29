@@ -1,10 +1,18 @@
+function ateZero(x) {
+    y=[];
+    
+    if(x>0)
+    
+    for(i=0;i<=x;i++){
+        
+        y.push(i);
+}
+        else{
+            
+        for(i=x;i<=0;i++)
+        
+        y.push(i);
+}        
+        return y;
 
-function entreNumeros(num){
-    y=[]
-    if (num>0)
-    for (i=0; i<=num; i++)
-        y.push(i) 
-    for (i=num; i<=0; i++)
-        y.push(i)
-    return y
 }

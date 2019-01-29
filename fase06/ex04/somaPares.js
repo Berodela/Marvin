@@ -3,7 +3,7 @@
 function somaPares(min, max){
 y=[]
 b=0
-min=Math.round(min)
+min=Math.ceil(min)
 max=Math.floor(max)
     for (i=min; i<= max; i++)
         if (i%2==0)

@@ -1,6 +1,6 @@
-function meuNome(obj){
-    return obj.nome.toUpperCase().slice(0,1)+
-    obj.nome.toLowerCase().slice(1)
+function meuNome(objeto){
+    a=objeto.nome
+    b=a.slice(0, 1).toUpperCase()
+    c=a.slice(1).toLowerCase()
+    return b+c
 }
-
-

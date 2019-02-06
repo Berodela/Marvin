@@ -1,0 +1,20 @@
+function teste(x){
+ //   usuarios=[
+//{usuario: "teu", saldo: 999, senha:4321},
+//{usuario: "be", saldo:1000, senha:1234},
+//{usuario: "ed", saldo: 2000, senha: 5678},
+//{usuario: "cau", saldo: 2300, senha: 7976}
+//]
+//for(i=0; i<usuarios.length; i++)
+//if (x==usuario.senha)
+//return usuario
+
+senha=[1234 || 2345 || 6789] 
+usuarios=[
+usuario[1234]={nome:"be", saldo: 45},
+usuario[2345]={nome: "teu", saldo: 30}
+]
+if (x== senha & usuario[x].saldo>0)
+return usuario[x]
+}
+console.log(teste(1234))
